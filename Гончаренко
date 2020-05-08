@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>
+Форма
+</title>
+</head>
+<center>
+<form method="get" action="page.html" outcomplete="on">
+<br><input type="text" maxlegth="15" spellchack="true" name="myname" value="first"></br>
+<br><input type="text" maxlegth="20" spellchack="true" name="username" value="second"></br>
+<br><input type="email"></br>
+<br><input type="password" maxlegth="30"></br>
+<br><input type="tel" placeholder="+380-00-00-00-000" required></br>
+<br><input type="button" value="Все буде добре!"></br>
+<br><input type="reset"></br>
+<br><input type="submit"></br>
+</form>
+</html>
