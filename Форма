@@ -4,6 +4,10 @@
 Форма
 </title>
 </head>
+<body>
+<a href="file:///E:/shiz/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/08.05/09.html>Проста валідація</a>
+<a href="file:///E:/shiz/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/08.05/05.html>Lorem</a>
+</body>
 <center>
 <form method="get" action="page.html" outcomplete="on">
 <br><input type="text" maxlegth="15" spellchack="true" name="myname" value="first"></br>
